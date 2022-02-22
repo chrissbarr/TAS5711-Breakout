@@ -105,25 +105,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWUCEPJK
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for RUMBA_Wifi\Design Rule Check - TAS5711.html
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=H:\Projects\PCB Design\Altium\Libraries\Library\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=ProjectName
-Value=V3D_EnvCheck
+Name=ProjectVersionString
+Value=v1.0A
 
 [Parameter2]
 Name=ProjectOutputVersion
 Value=v1_0A
 
 [Parameter3]
-Name=ProjectVersionString
-Value=v1.0A
+Name=ProjectName
+Value=TAS5711
 
 [Configuration1]
 Name=Default Configuration
