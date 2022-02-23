@@ -5,8 +5,8 @@ Altium Designer Pick and Place Locations
 File Design Information:
 
 Date:       23/02/22
-Time:       00:48
-Revision:   602cb3d9ca9cb6884a512593ce56fd18db5bfc6b
+Time:       19:56
+Revision:   0900869ecd03c3d79abe7638a021f75a9423aaf1
 Variant:    No variations
 Units used: mm
 
@@ -30,7 +30,7 @@ Units used: mm
 "L5","Inductor SMD 10uH 2.4A","TopLayer","SRN6045TA_SMD_INDUCTOR","26.4000","8.0750","90","FIXED IND 10UH 2.4A 59.8MOHM SMD"
 "L4","Inductor SMD 10uH 2.4A","TopLayer","SRN6045TA_SMD_INDUCTOR","26.4000","14.4750","90","FIXED IND 10UH 2.4A 59.8MOHM SMD"
 "P7","PWR_HDR","TopLayer","HDR1X2-HEADER","10.5300","38.1000","360","Header, 2-Pin"
-"MH1","Screw Hole","TopLayer","M3-Hole-2","3.0000","37.0000","0",""
+"MH1","Screw Hole","TopLayer","M3-Hole-2","3.0000","37.0000","90",""
 "U1","TAS5711","TopLayer","TSQFP50P900X900X105_HS-49M","13.1500","20.0000","270","IC AMP D DUAL/QUAD 21W 48HTQFP"
 "U2","AP2112K-3.3TRG1","TopLayer","SOT23-5","11.3100","4.0500","360","IC REG LINEAR 3.3V 600MA SOT25"
 "R10","Resistor","TopLayer","RES_1608-0603","25.0000","1.5000","180","RES SMD 1K OHM 1% 1/10W 0603"
@@ -44,7 +44,7 @@ Units used: mm
 "P3","SPKR_LEFT_TERM","TopLayer","TERM2_3.5mm","34.4000","27.0000","270","Screw Terminal 3.5mm 2-Way"
 "P2","Header 10","TopLayer","HDR1X10","2.0000","20.0000","270","Header, 10-Pin"
 "P1","PWR_TERM","TopLayer","TERM2_3.5mm","34.4000","20.0000","270","Screw Terminal 3.5mm 2-Way"
-"MH4","Screw Hole","TopLayer","M3-Hole-2","37.0000","3.0000","0",""
+"MH4","Screw Hole","TopLayer","M3-Hole-2","37.0000","3.0000","90",""
 "MH3","Screw Hole","TopLayer","M3-Hole-2","37.0000","37.0000","0",""
 "MH2","Screw Hole","TopLayer","M3-Hole-2","3.0000","3.0000","0",""
 "LD3","LEDG  0603","TopLayer","LED_1608-0603","28.2188","1.5000","360","LED GREEN CLEAR CHIP SMD 0603"
