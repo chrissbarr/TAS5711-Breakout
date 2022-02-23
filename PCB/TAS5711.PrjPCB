@@ -105,6 +105,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWUCEPJK
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RUMBA_Wifi\Design Rule Check - TAS5711.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Outputs\TAS5711_v1_0A_BOM.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Outputs\TAS5711_v1_0A_PickPlace.csv
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=H:\Projects\PCB Design\Altium\Libraries\Library\*.*
 IncludeSubFolders=1
